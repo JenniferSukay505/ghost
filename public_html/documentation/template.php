@@ -26,9 +26,9 @@
 		<link rel="stylesheet" href="://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css">
 
 		<!--Link to custom CSS files here-->
-		<link type="text/css" href="./css/sidepanel.css" rel="stylesheet">
-		<link type="text/css" href="./css/footer.css" rel="stylesheet">
-		<link type="text/css" href="./css/style.css" rel="stylesheet">
+		<link type="text/css" href="/css/sidepanel.css" rel="stylesheet">
+		<link type="text/css" href="/css/footer.css" rel="stylesheet">
+		<link type="text/css" href="/css/style.css" rel="stylesheet">
 
 
 		<!--HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries-->
